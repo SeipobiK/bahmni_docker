@@ -9,7 +9,7 @@ WorkingDirectory=/development_emr/openmrs-module-dhisconnector-release
 ExecStart=/development_emr/openmrs-module-dhisconnector-release/gitpull_dhisconnector.sh
 
 
-User=openmrs
+#User=openmrs
 RestartSec=604800
 
 

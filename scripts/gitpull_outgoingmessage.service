@@ -9,7 +9,7 @@ WorkingDirectory=/development_emr/openmrs-module-outgoingmessageexception-releas
 ExecStart=/development_emr/openmrs-module-outgoingmessageexception-release/gitpull_outgoingmessage.sh
 
 
-User=openmrs
+#User=openmrs
 RestartSec=604800
 
 

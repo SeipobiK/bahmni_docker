@@ -9,7 +9,7 @@ WorkingDirectory=/development_emr/openmrs-module-appointments-release
 ExecStart=/development_emr/openmrs-module-appointments-release/gitpull_appointments.sh
 
 
-User=openmrs
+#User=openmrs
 RestartSec=604800
 
 

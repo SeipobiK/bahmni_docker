@@ -9,7 +9,7 @@ WorkingDirectory=/development_emr/dhisconnector_mappings
 ExecStart=/development_emr/dhisconnector_mappings/gitpull_mappings.sh
 
 
-User=openmrs
+#User=openmrs
 RestartSec=86400
 Restart=always
 

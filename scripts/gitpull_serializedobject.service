@@ -9,7 +9,7 @@ WorkingDirectory=/development_emr/openmrs_reporting_release
 ExecStart=/development_emr/openmrs_reporting_release/gitpull_serializedobject.sh
 
 
-User=openmrs
+#User=openmrs
 RestartSec=86400
 Restart=always
 
