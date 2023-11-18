@@ -218,10 +218,10 @@ cd /home/openmrs/bahmni_docker/scripts
 
 
 #Configure hie file
-sudo bash ./hie_config.sh
+#sudo bash ./hie_config.sh
 
 #Install rclone for onedrive upload
-sudo bash ./install_rclone.sh
+#sudo bash ./install_rclone.sh
 
 #Install nagios
-sudo bash ../nagios-ansible/install_nagios.sh
+#sudo bash ../nagios-ansible/install_nagios.sh
